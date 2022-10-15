@@ -1,0 +1,10 @@
+/* Write your CSS here */
+button {
+  border: none;
+  font-size: 1.3rem;
+  background-color: transparent;
+}
+.active-btn {
+  text-decoration: underline;
+  color: blue;
+}
